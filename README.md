@@ -35,4 +35,5 @@ I really hope to learn more about data analysis and maybe even dive into machine
 * Learn Machine learning and integrate it into my data analysis journey.
 
 I am super excited to learn more about data and how to analyze it in the future! Please reach out to me if you have any good tools to aid my begginer level knowledge in data analysis and machine learning!
-[My Email](ellagalbraithh@gmail.com) | [My LinkedIn](www.linkedin.com/in/ella-galbraith)
+
+My Email: ellagalbraithh@gmail.com | [My LinkedIn](www.linkedin.com/in/ella-galbraith)
